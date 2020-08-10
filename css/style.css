@@ -57,6 +57,16 @@ h1 {
     padding-left: 2rem;
 }
 
+h3 {
+    padding-bottom: 1rem;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 button {
     height: 3rem;
     width: 6rem;
